@@ -1,0 +1,1 @@
+Escreva um algoritimo para ler as dimensoes de um retângulo (base e altura) e calcule a sua área
